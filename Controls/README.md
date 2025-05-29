@@ -1,5 +1,5 @@
-Hash|Nome da Hash|Tecla|Versão ...
------------ | ----------------- | --------------------- | --------
+Hash|Nome|Tecla|Versão ...
+--------- | ----------------- | ------------------- | --------
 0x3D23549A|INPUT_FRONTEND_RIGHT_AXIS_X|[|1207.80
 0x430593AA|INPUT_SNIPER_ZOOM_OUT_ONLY|[|1207.80
 0x7ABC6A66|INPUT_SNIPER_ZOOM|[|1207.80
