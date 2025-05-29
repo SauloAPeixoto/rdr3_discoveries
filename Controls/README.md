@@ -1,5 +1,3 @@
-
-
 Hash|Nome da Hash|Tecla|Versão ...
 ----------- | ----------------- | --------------------- | --------
 0x3D23549A|INPUT_FRONTEND_RIGHT_AXIS_X|[|1207.80
