@@ -1,6 +1,6 @@
 
 
-Hash|Nome da Hash|Tecla|Versão do Game ...
+Hash|Nome da Hash|Tecla|Versão ...
 ----------- | ----------------- | --------------------- | --------
 0x3D23549A|INPUT_FRONTEND_RIGHT_AXIS_X|[|1207.80
 0x430593AA|INPUT_SNIPER_ZOOM_OUT_ONLY|[|1207.80
