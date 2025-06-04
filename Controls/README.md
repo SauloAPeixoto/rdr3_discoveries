@@ -1,4 +1,4 @@
-Hash|Nome|Tecla|Versão
+HASH|NOME|TECLA|VERSÃO
 --------- | ----------------- | --------------- | --------
 0x3D23549A|INPUT_FRONTEND_RIGHT_AXIS_X|[|1207.80
 0x430593AA|INPUT_SNIPER_ZOOM_OUT_ONLY|[|1207.80
