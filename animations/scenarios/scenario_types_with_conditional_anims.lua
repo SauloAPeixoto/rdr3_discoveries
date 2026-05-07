@@ -4322,8 +4322,8 @@ local scenario_types_with_conditional_anims = {
       "INSPECT_RAZOR_BOX",
   },
 
-  ["TS_STR_INSPECT_MAYOR_LETTER",
-
+  ["TS_STR_INSPECT_MAYOR_LETTER"] = {
+    
   },
 
   ["TS_VAL_INSPECT_PLACED_ARTIFACT"] = {

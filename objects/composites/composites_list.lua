@@ -1,4 +1,4 @@
-```
+
 -- -- COMPOSITES ARE SCENARIOS FOR HERB PICKUP.
 
 -- local composite_scenario_id = -1
@@ -50,7 +50,6 @@
 --     end
 -- end)
 
-```
 
 local composite_list = {
 

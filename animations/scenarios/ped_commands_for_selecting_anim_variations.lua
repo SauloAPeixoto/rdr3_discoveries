@@ -59,13 +59,13 @@ local ped_command_hashes_for_selecting_anim_variations =
 	{conditional_anim_name="SP_GJ02_STAND_BAR_DRINKING",anim_variations_type="ExitAnim",ped_command_hash="P_21_Exit02_Jon",},
 	{conditional_anim_name="WORLD_CAMP_FIRE_SIT_GROUND_MALE_A",anim_variations_type="ExitAnim",ped_command_hash="REMC_RET_REALLY_MALE0_REACT_FRONT",},
 	{conditional_anim_name="WORLD_CAMP_FIRE_SIT_GROUND_MALE_A",anim_variations_type="ExitAnim",ped_command_hash="REMC_RET_REALLY_MALE0_REACT_RIGHT",},
-	{conditional_anim_name="WORLD_HUMAN_SELL_PAPER_MALE_A",anim_variations_type="BaseAnim",,"HANDLE_DIALOGUE_CALLOUT",},
+	{conditional_anim_name="WORLD_HUMAN_SELL_PAPER_MALE_A",anim_variations_type="BaseAnim","HANDLE_DIALOGUE_CALLOUT",},
 	{conditional_anim_name="WORLD_PLAYER_DYNAMIC_CAMP_FIRE_KNEEL_ARTHUR",anim_variations_type="EnterAnim","DYNAMIC_KNEEL_QUICK_ENTER",},
 	{conditional_anim_name="WORLD_PLAYER_DYNAMIC_CAMP_FIRE_KNEEL_ARTHUR",anim_variations_type="ExitAnim",ped_command_hash="DYNAMIC_KNEEL_MASHING_FOR_EXIT",},
 	{conditional_anim_name="WORLD_PLAYER_DYNAMIC_CAMP_FIRE_KNEEL_MP_FEMALE_A",anim_variations_type="EnterAnim","DYNAMIC_KNEEL_QUICK_ENTER",},
 	{conditional_anim_name="WORLD_PLAYER_DYNAMIC_CAMP_FIRE_KNEEL_MP_FEMALE_A",anim_variations_type="ExitAnim",ped_command_hash="DYNAMIC_KNEEL_MASHING_FOR_EXIT",},
 	{conditional_anim_name="WORLD_PLAYER_DYNAMIC_KNEEL_ARTHUR",anim_variations_type="EnterAnim","DYNAMIC_KNEEL_QUICK_ENTER",},
-	{conditional_anim_name="WORLD_PLAYER_DYNAMIC_KNEEL_ARTHUR",anim_variations_type="ExitAnim",ped_command_hash="DYNAMIC_KNEEL_SLOW_EXIT",},
+	{conditional_anim_name="WORLD_PLAYER_DYNAMIC_KNEEL_ARTHUR",anim_variations_type="ExitAnim",ped_command_hash="DYNAMIC_KNEEL_SLOW_EXIT",}
 
-}
+
 
